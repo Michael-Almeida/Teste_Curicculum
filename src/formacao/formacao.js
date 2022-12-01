@@ -3,7 +3,7 @@ import React from 'react';
 export default function formacao() {
   return (
     <div>
-      <h2>Formaç ão</h2>
+      <h2>Formação</h2>
       <ul>
         <li>
           Cursando: Técnico em Informática – Escola Profissional Fundatec - 4º
