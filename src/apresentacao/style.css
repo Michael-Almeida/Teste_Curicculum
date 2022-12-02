@@ -1,0 +1,9 @@
+.principal {
+  text-align: center;
+}
+img {
+  max-width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

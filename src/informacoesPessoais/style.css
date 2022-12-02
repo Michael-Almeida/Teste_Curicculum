@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+.botoes {
+  display: block;
+  width: 100px;
+}

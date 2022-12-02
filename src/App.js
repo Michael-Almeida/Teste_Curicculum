@@ -9,7 +9,7 @@ import CursosExtras from './cursosExtras/cursosExtras.js';
 
 export default function Home() {
   return (
-    <div>
+    <div class="geral">
       <Apresentacao />
       <Informacoes />
       <Objetivo />

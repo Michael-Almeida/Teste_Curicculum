@@ -1,15 +1,4 @@
 .geral {
-  max-width: 100%;
-  align-items: center;
-}
-img {
-  max-width: 150px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-a {
-  text-decoration: none;
-}
-.cursosExtras {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
 }
