@@ -1,8 +1,11 @@
 import React from 'react';
 
 export default function formacao() {
+  const Container = {
+    display: 'flex',
+  };
   return (
-    <div>
+    <div style={Container}>
       <h2>Formação</h2>
       <ul>
         <li>

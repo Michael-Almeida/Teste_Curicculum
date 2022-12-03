@@ -2,6 +2,7 @@ import React from 'react';
 import './style.css';
 
 export default function informacoes() {
+  // se for fazer JS fazer antes do return
   return (
     <div>
       <h2>Informações pessoais</h2>
