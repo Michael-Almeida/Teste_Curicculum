@@ -11,7 +11,7 @@ export default function apresencao() {
         Aqui você irá conhecer um pouco mais do Michael Profissional , Hard e
         soft Skils!
       </p>
-      <button>Saiba mais</button>
+      <button class='botaoApresentacao'>Saiba mais</button>
     </div>
   );
 }

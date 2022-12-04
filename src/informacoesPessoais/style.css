@@ -6,6 +6,14 @@ a:hover {
   color: blue;
   text-decoration: underline;
 }
-.botoes {
-  width: 140px;
+.botaoesInformacoes {
+  padding: 10px;
+  border: 1px solid black;
+  background-color: #4169e1;
+  border-radius: 5px;
+  width: 130px;
+  height: 50px;
+  gap: 5px;
+  justify-content: center;
+  margin: 10px;
 }

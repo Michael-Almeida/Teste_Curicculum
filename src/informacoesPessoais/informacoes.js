@@ -9,7 +9,7 @@ export default function informacoes() {
       <p>Bairro Vila Nova - Porto Alegre/RS</p>
       <p>Contato: (51) 98483.3340</p>
       <p>E-mail: michaelcardoso97@gmail.com</p>
-      <div class="botoes">
+      <div class="botaoesInformacoes">
         <button>
           <a href="httbuttons://www.linkedin.com/in/michael93c/">Linkedin</a>
         </button>
