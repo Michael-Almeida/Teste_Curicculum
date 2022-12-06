@@ -1,12 +1,22 @@
-.principal {
-  text-align: center;
+.logo {
+  background-image: url('https://s0.smartresize.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg');
+  background-size: 350px;
+  background-position: 10px;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: right;
+  height: 160px;
+  width: 100%;
+  color: white;
+  border: solid #afafaf 1px;
+  border-radius: 2px;
 }
-img {
-  max-width: 150px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.imagemCapa {
+  width: 150px;
+  margin-top: 10px;
+  align-items: flex-end;
 }
+
 .botaoApresentacao {
   padding: 10px;
   border: 1px solid black;
