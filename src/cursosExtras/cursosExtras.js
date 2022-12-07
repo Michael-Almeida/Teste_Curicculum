@@ -4,25 +4,25 @@ export default function cursosExtras() {
   return (
     <div>
       <h2>Cursos extras</h2>
-      <input type="radio" checked />
+      <input type="checkbox" readOnly checked />
       Excel intermediário
       <br />
-      <input type="radio" checked />
+      <input type="checkbox" readOnly checked />
       Inglês Básico/Intermediário
       <br />
-      <input type="radio" checked />
+      <input type="checkbox" readOnly checked />
       Photoshop Profissional
       <br />
-      <input type="radio" checked />
+      <input type="checkbox" readOnly checked />
       After Effects
       <br />
-      <input type="radio" checked />
+      <input type="checkbox" readOnly checked />
       Web Designer
       <br />
-      <input type="radio" checked />
+      <input type="checkbox" readOnly checked />
       Computação Gráfica 3D
       <br />
-      <input type="radio" checked />
+      <input type="checkbox" readOnly checked />
       Desenvolvimento de Líderes e Práticas de Negociação
     </div>
   );
