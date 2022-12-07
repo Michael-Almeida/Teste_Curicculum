@@ -5,7 +5,7 @@ export default function formacao() {
     display: 'flex',
   };
   return (
-    <div style={Container}>
+    <div>
       <h2>Formação</h2>
       <ul>
         <li>

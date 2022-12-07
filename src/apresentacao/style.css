@@ -3,13 +3,13 @@
   background-size: 350px;
   background-position: 10px;
   background-repeat: no-repeat;
-  background-color: black;
+  background-color: rgb(17, 14, 14);
   background-position: right;
   height: 160px;
   width: 100%;
   color: white;
   border: solid #afafaf 1px;
-  border-radius: 2px;
+  border-radius: 4px;
 }
 .imagemCapa {
   width: 150px;
